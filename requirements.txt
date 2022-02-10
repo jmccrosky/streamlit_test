@@ -1,0 +1,3 @@
+protobuf==3.19.4
+pydata_google_auth==1.3.0
+streamlit==1.5.1
